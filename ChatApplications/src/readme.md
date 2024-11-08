@@ -61,12 +61,6 @@ To run the application:
 
 ---
 
-## 🌐 Screenshots
-
-### [Add screenshots of the GUI in action to make the readme more visual and engaging.]
-
----
-
 ## 📝 Additional Notes
 
 - **Thread Management**: Each user runs independently on a thread, minimizing latency and ensuring seamless interaction.
@@ -76,7 +70,7 @@ To run the application:
 
 ## 👥 Contributors
 
-- **Your Name**
+- **Hamza Ali**
 - Additional Contributors
 
 ---
