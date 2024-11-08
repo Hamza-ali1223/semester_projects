@@ -1,2 +1,1 @@
-# semester_projects
-Semester_Projects
+- Following is my repo of all of my semester projects in my university life.
